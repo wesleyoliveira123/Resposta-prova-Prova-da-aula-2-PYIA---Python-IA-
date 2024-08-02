@@ -1,0 +1,2 @@
+# Resposta-prova-Prova-da-aula-2-PYIA---Python-IA-
+Crie dicionário q irá armazenar informações de um ctt, incluindo o nome, o fone e o email. Peça ao usuário para fornecer esses dados, solicitando que ele insira o nome do contato, o número de telefone e o endereço de email. Após coletar todas as info necessárias, exiba o conteúdo do dicionário, mostrando todas as informações do ctt inserid pelo usu
